@@ -9,7 +9,7 @@ export default function CategoryItem({ item }) {
 
   return (
     <div>
-      <h1>{title}</h1>
+      <h2>{title}</h2>
       <img className="cardImage" src={coverImage} alt={title} />
       <span>{description}</span>
       <p>

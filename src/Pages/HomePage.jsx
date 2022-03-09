@@ -7,7 +7,7 @@ import categories from "../Data/categories.json";
 
 export default function HomePage() {
   const Categories = categories.map((item) => (
-    <CategoryItem key={item.id} category={item} />
+    <CategoryItem key={item.id} item={item} />
   ));
 
   return (

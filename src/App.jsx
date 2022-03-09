@@ -5,6 +5,7 @@ import Dishes from "./Pages/Dishes";
 import Drinks from "./Pages/Drinks";
 import Desserts from "./Pages/Desserts";
 import HomePage from "./Pages/HomePage";
+import ProductDetail from "./Pages/ProductDetail";
 
 import "./Styles/styles.css";
 
@@ -18,6 +19,7 @@ function App() {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/Dishes" element={<Dishes />} />
+        <Route path="/Dishes/:id" element={<ProductDetail />} />
         <Route path="/Drinks" element={<Drinks />} />
         <Route path="/Desserts" element={<Desserts />} />
         <Route path="/Contact" element={<Contact />} />

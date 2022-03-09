@@ -6,6 +6,8 @@ import Drinks from "./Pages/Drinks";
 import Desserts from "./Pages/Desserts";
 import HomePage from "./Pages/HomePage";
 
+//import "./css/style.css";
+
 //NPM Packages
 import { Routes, Route } from "react-router";
 
@@ -15,10 +17,10 @@ function App() {
       <Navigation />
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/dishes" element={<Dishes />} />
-        <Route path="/drinks" element={<Drinks />} />
-        <Route path="/desserts" element={<Desserts />} />
-        <Route path="/contact" element={<Contact />} />
+        <Route path="/Dishes" element={<Dishes />} />
+        <Route path="/Drinks" element={<Drinks />} />
+        <Route path="/Desserts" element={<Desserts />} />
+        <Route path="/Contact" element={<Contact />} />
       </Routes>
     </div>
   );

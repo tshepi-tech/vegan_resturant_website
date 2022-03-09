@@ -3,18 +3,18 @@
     "id": 1,
     "title": "Dishes",
     "description": "Our vegan main dishes are not only wholesome but they provide the necessary nutrition to satisfy and meet your health needs in a meal. We source our ingredients from local farmers keeping everything organic and sustainable for a guilt free meal with us. Our chef works on the menu continously and is happy to spice things up!",
-    "imageOrigin": ""
+    "imageOrigin": "categorydrinks.png"
   },
   {
     "id": 2,
     "title": "Drinks",
     "description": "With our selection of hot and cold drinks, we have what you need for hot summer nights or cozy autumn evenings. Inspired by natural spices, flavourful fruits and colour, we love preparing our drinks to meet the desires of our customers. All casual drinks can be taken as cocktail as well!",
-    "imageOrigin": ""
+    "imageOrigin": "categorydrinks.png"
   },
   {
     "id": 3,
     "title": "Desserts",
     "description": "What is a meal without dessert? Sweet and savoury options are available for the different tastebuds. Enjoy with a complimentary cup of coffee or tea while relaxing with us. A perfect way to say goodbye, our desserts bring a deligful end to any meal.",
-    "imageOrigin": ""
+    "imageOrigin": "categorydessert.webp"
   }
 ]

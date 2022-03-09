@@ -6,10 +6,10 @@ export default function Navigation() {
     <nav>
       <img src="" alt="logo of resturant" />
       <ul>
-        <NavLink to="/dishes">Dishes</NavLink>
-        <NavLink to="/drinks">Drinks</NavLink>
-        <NavLink to="/desserts">Desserts</NavLink>
-        <NavLink to="/contact">Contact</NavLink>
+        <NavLink to="/Dishes">Dishes</NavLink>
+        <NavLink to="/Drinks">Drinks</NavLink>
+        <NavLink to="/Desserts">Desserts</NavLink>
+        <NavLink to="/Contact">Contact</NavLink>
       </ul>
     </nav>
   );

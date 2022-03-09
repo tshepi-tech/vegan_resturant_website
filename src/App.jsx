@@ -6,7 +6,7 @@ import Drinks from "./Pages/Drinks";
 import Desserts from "./Pages/Desserts";
 import HomePage from "./Pages/HomePage";
 
-//import "./css/style.css";
+import "./Styles/styles.css";
 
 //NPM Packages
 import { Routes, Route } from "react-router";

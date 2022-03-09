@@ -1,7 +1,7 @@
-. map{
-    width:400px,
-          height:auto
-          style:border:0;
-          /* allowfullscreen:"" */
-          loading:lazy
+.map {
+  width: 400px;
+  height: auto;
+  /* style:border:0; */
+  /* allowfullscreen:"" */
+  /* loading:lazy */
 }

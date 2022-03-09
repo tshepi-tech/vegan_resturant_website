@@ -4,6 +4,7 @@ import Contact from "./Pages/Contact";
 import Dishes from "./Pages/Dishes";
 import Drinks from "./Pages/Drinks";
 import Desserts from "./Pages/Desserts";
+import Footer from "./Components/Footer";
 import HomePage from "./Pages/HomePage";
 import ProductDetail from "./Pages/ProductDetail";
 
@@ -24,6 +25,7 @@ function App() {
         <Route path="/Desserts" element={<Desserts />} />
         <Route path="/Contact" element={<Contact />} />
       </Routes>
+      <Footer />
     </div>
   );
 }

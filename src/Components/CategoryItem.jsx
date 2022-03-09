@@ -1,8 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-export default function CategoryCard({ category }) {
-  const { title, description, imageOrigin } = category;
+export default function CategoryItem({ item }) {
+  const { title, description, imageOrigin } = item;
 
   //Properties
   const coverImage = require(`../Assets/${imageOrigin}`);

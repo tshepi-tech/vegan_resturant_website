@@ -2,12 +2,12 @@ import React from "react";
 
 //Project files
 import Hero from "../Components/Hero";
-import CategoryCard from "../Components/CategoryCard";
+import CategoryItem from "../Components/CategoryItem";
 import categories from "../Data/categories.json";
 
 export default function HomePage() {
-  const Categories = categories.map((category) => (
-    <CategoryCard key={category.id} category={category} />
+  const Categories = categories.map((item) => (
+    <CategoryItem key={item.id} category={item} />
   ));
 
   return (

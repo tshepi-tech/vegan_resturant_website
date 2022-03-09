@@ -15,9 +15,9 @@ export default function InformationItem({ item }) {
       />
       <h3>{address}</h3>
       <h3>[openingHours]</h3>
-      <section className="map">
+      {/* <section className="map">
         <iframe src={locationURL}></iframe>
-      </section>
+      </section> */}
     </div>
   );
 }

@@ -14,7 +14,7 @@ export default function Dishes({}) {
 
   return (
     <div>
-      <h2>Dish menu</h2>
+      <h2>Dishes menu</h2>
       {listDishes}
       {/* <Link to={`/Dishes/${item.id}`}>{listDishes}</Link> */}
     </div>

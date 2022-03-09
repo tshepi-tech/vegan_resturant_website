@@ -1,0 +1,12 @@
+.hero {
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../Assets/ImageHERO.webp);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}

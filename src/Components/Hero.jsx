@@ -1,5 +1,12 @@
 import React from "react";
 
 export default function Hero() {
-  return <div>Hero</div>;
+  return (
+    <section className="hero">
+      <div>
+        <h1>Welcome to VegLicious</h1>
+        <p>The tastiest vegan resturant in town</p>
+      </div>
+    </section>
+  );
 }

@@ -158,34 +158,34 @@
     "thumbnailSource": "",
     "description": "With added nutty flavour from almond butter, enjoy this creamy smoothie",
     "imageSource": "",
-    "detail": "",
+    "detail": "Our quick and delicious Almond butter & banana smoothie which is great for snack or breakfast. Using only the freshest bananas , the smoothie is a favourite for childrenand can be served as a milkshake as well with frozen bananas!",
     "ingredients": [
-      { "id": "0", "name": "", "icon": "" },
-      { "id": "1", "name": "", "icon": "" },
-      { "id": "2", "name": "", "icon": "" },
-      { "id": "3", "name": "", "icon": "" },
-      { "id": "4", "name": "", "icon": "" }
+      { "id": "0", "name": "Banana", "icon": "" },
+      { "id": "1", "name": "Unsweetened almonf milk", "icon": "" },
+      { "id": "2", "name": "Almond butter", "icon": "" },
+      { "id": "3", "name": "Grounded cinnamon", "icon": "" },
+      { "id": "4", "name": "Unflavoured protein powder", "icon": "" }
     ],
     "nutrtion": [
       {
         "id": "0",
-        "label": "",
-        "value": ""
+        "label": "Calories",
+        "value": "402"
       },
       {
         "id": "1",
-        "label": "",
-        "value": ""
+        "label": "Total fat",
+        "value": "21.8g"
       },
       {
         "id": "2",
-        "label": "",
-        "value": ""
+        "label": "Sodium",
+        "value": "375g"
       },
       {
         "id": "3",
-        "label": "",
-        "value": ""
+        "label": "Carbohydrates",
+        "value": "37.4g"
       }
     ]
   },
@@ -196,34 +196,34 @@
     "thumbnailSource": "",
     "description": "a colourful 3 ingredient cocktail enjoyed all year-round.",
     "imageSource": "",
-    "detail": "",
+    "detail": "This bright and bubbly sipper combines berries with vodka and seltzer to make a colorful 3-ingredient cocktail you can enjoy year-round, thanks to frozen berries. Amp up the flavor even more by requesting a flavored seltzer rather than plain!",
     "ingredients": [
-      { "id": "0", "name": "", "icon": "" },
-      { "id": "1", "name": "", "icon": "" },
-      { "id": "2", "name": "", "icon": "" },
-      { "id": "3", "name": "", "icon": "" },
-      { "id": "4", "name": "", "icon": "" }
+      { "id": "0", "name": "Frozen berries", "icon": "" },
+      { "id": "1", "name": "Seltzer water", "icon": "" },
+      { "id": "2", "name": "Vodka", "icon": "" },
+      { "id": "3", "name": "Lemon", "icon": "" },
+      { "id": "4", "name": "Pormegrante", "icon": "" }
     ],
     "nutrtion": [
       {
         "id": "0",
-        "label": "",
-        "value": ""
+        "label": "Calories",
+        "value": "133"
       },
       {
         "id": "1",
-        "label": "",
-        "value": ""
+        "label": "Total fat",
+        "value": "0.4g"
       },
       {
         "id": "2",
-        "label": "",
-        "value": ""
+        "label": "Sodium",
+        "value": "1.1mg"
       },
       {
         "id": "3",
-        "label": "",
-        "value": ""
+        "label": "Carbohydrates",
+        "value": "8.4g"
       }
     ]
   },
@@ -234,34 +234,34 @@
     "thumbnailSource": "",
     "description": "Packed with vegetables, ready for a healthy kick!",
     "imageSource": "",
-    "detail": "",
+    "detail": "In this healthy ginger-beet juice recipe, we pack in vegetables by adding kale and a carrot, and sweeten with an orange and apple.",
     "ingredients": [
-      { "id": "0", "name": "", "icon": "" },
-      { "id": "1", "name": "", "icon": "" },
-      { "id": "2", "name": "", "icon": "" },
-      { "id": "3", "name": "", "icon": "" },
-      { "id": "4", "name": "", "icon": "" }
+      { "id": "0", "name": "Orange", "icon": "" },
+      { "id": "1", "name": "Apple", "icon": "" },
+      { "id": "2", "name": "Ginger", "icon": "" },
+      { "id": "3", "name": "Beetroot", "icon": "" },
+      { "id": "4", "name": "Carrot", "icon": "" }
     ],
     "nutrtion": [
       {
         "id": "0",
-        "label": "",
-        "value": ""
+        "label": "Calories",
+        "value": "415"
       },
       {
         "id": "1",
-        "label": "",
-        "value": ""
+        "label": "Total fat",
+        "value": "21.2g"
       },
       {
         "id": "2",
-        "label": "",
-        "value": ""
+        "label": "Sodium",
+        "value": "701.6mg"
       },
       {
         "id": "3",
-        "label": "",
-        "value": ""
+        "label": "Carbohydrates",
+        "value": "48.1g"
       }
     ]
   },

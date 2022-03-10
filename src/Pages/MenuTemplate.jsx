@@ -1,9 +1,8 @@
-import products from "../Data/products.json";
 import MenuItem from "../Components/MenuItem";
+import products from "../Data/products.json";
 
 export default function MenuTemplate({ category }) {
   const menuItems = products.filter((item) => item.category === category);
-  console.log(menuItems);
   const listItems = menuItems.map((item) => (
     <MenuItem category={category} key={item.id} item={item}></MenuItem>
   ));

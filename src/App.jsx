@@ -1,9 +1,9 @@
 //Project Files
-import Navigation from "./Components/Navigation";
 import Contact from "./Pages/Contact";
 import Footer from "./Components/Footer";
 import HomePage from "./Pages/HomePage";
 import MenuTemplate from "./Pages/MenuTemplate";
+import Navigation from "./Components/Navigation";
 import ProductTemplate from "./Pages/ProductTemplate";
 
 import "./Styles/styles.css";

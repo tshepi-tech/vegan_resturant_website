@@ -1,22 +1,18 @@
 import React from "react";
 
 //NPM Packages
-import { NavLink } from "react-router-dom";
-import { Link } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 
 export default function Navigation({ category, setCategory }) {
   function menuDishes() {
     setCategory("Dishes");
-    console.log("Navigation menuDishes", category);
   }
 
   function menuDrinks() {
     setCategory("Drinks");
-    console.log("category", category);
   }
   function menuDesserts() {
     setCategory("Desserts");
-    console.log("category", category);
   }
 
   return (

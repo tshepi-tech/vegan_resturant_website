@@ -6,6 +6,7 @@ import products from "../Data/products.json";
 
 export default function Drinks() {
   //Properties
+
   const Drinks = products.filter((item) => item.category === "Drinks");
   const listDrinks = Drinks.map((item) => (
     <ProductItem key={item.id} item={item} />

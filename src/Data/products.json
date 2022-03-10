@@ -272,34 +272,34 @@
     "thumbnailSource": "",
     "description": "Steamed almond milk ,with healthy tumeric and a touch of honey",
     "imageSource": "",
-    "detail": "",
+    "detail": "Studies on turmeric's health benefits, particularly for reducing inflammation, are preliminary but promising. Try this vegan turmeric latte made from steamed almond milk and sweetened with a touch of maple syrup.",
     "ingredients": [
-      { "id": "0", "name": "", "icon": "" },
-      { "id": "1", "name": "", "icon": "" },
-      { "id": "2", "name": "", "icon": "" },
-      { "id": "3", "name": "", "icon": "" },
-      { "id": "4", "name": "", "icon": "" }
+      { "id": "0", "name": "Tumeric", "icon": "" },
+      { "id": "1", "name": "Unsweetened almond milk", "icon": "" },
+      { "id": "2", "name": "Ginger", "icon": "" },
+      { "id": "3", "name": "Ground cinnamon", "icon": "" },
+      { "id": "4", "name": "Honey", "icon": "" }
     ],
     "nutrtion": [
       {
         "id": "0",
-        "label": "",
-        "value": ""
+        "label": "Calories",
+        "value": "70"
       },
       {
         "id": "1",
-        "label": "",
-        "value": ""
+        "label": "Total fat",
+        "value": "2.7g"
       },
       {
         "id": "2",
-        "label": "",
-        "value": ""
+        "label": "Sodium",
+        "value": "172.1mg"
       },
       {
         "id": "3",
-        "label": "",
-        "value": ""
+        "label": "Carbohydrates",
+        "value": "10.9g"
       }
     ]
   },
@@ -310,34 +310,34 @@
     "thumbnailSource": "",
     "description": "This treat is salty and sweet with crisp texture",
     "imageSource": "",
-    "detail": "",
+    "detail": "This one is sweet and salty, with a confetti of colorful ingredients and absolutely irresistible.We used cranberries, pistachios, coconut and sea salt for the toppings.Enjoy a smooth, shiny sheen on the chocolate and just the right crisp crunch when you bite into it.",
     "ingredients": [
-      { "id": "0", "name": "", "icon": "" },
-      { "id": "1", "name": "", "icon": "" },
-      { "id": "2", "name": "", "icon": "" },
-      { "id": "3", "name": "", "icon": "" },
-      { "id": "4", "name": "", "icon": "" }
+      { "id": "0", "name": "Vegan dark chololate", "icon": "" },
+      { "id": "1", "name": "Dried cranberries", "icon": "" },
+      { "id": "2", "name": "Pistachios", "icon": "" },
+      { "id": "3", "name": "Coconut salt", "icon": "" },
+      { "id": "4", "name": "Sea salt", "icon": "" }
     ],
     "nutrtion": [
       {
         "id": "0",
-        "label": "",
-        "value": ""
+        "label": "Calories",
+        "value": "78"
       },
       {
         "id": "1",
-        "label": "",
-        "value": ""
+        "label": "Total fat",
+        "value": "5.1g"
       },
       {
         "id": "2",
-        "label": "",
-        "value": ""
+        "label": "Sodium",
+        "value": "560mg"
       },
       {
         "id": "3",
-        "label": "",
-        "value": ""
+        "label": "Sugars",
+        "value": "5.3g"
       }
     ]
   },
@@ -348,34 +348,34 @@
     "thumbnailSource": "",
     "description": "Cake with chocolate buttercream filling and shiny dark chocolate ganache",
     "imageSource": "",
-    "detail": "",
+    "detail": "Cake perfection! This incredible, decadent vegan chocolate cake features a rich, moist interior and a fluffy buttercream filling. The best part? It’s topped off with a shiny ganache topping!",
     "ingredients": [
-      { "id": "0", "name": "", "icon": "" },
-      { "id": "1", "name": "", "icon": "" },
-      { "id": "2", "name": "", "icon": "" },
-      { "id": "3", "name": "", "icon": "" },
-      { "id": "4", "name": "", "icon": "" }
+      { "id": "0", "name": "Vanilla extract", "icon": "" },
+      { "id": "1", "name": "Cocoa powder", "icon": "" },
+      { "id": "2", "name": "Almond butter", "icon": "" },
+      { "id": "3", "name": "Coconut milk", "icon": "" },
+      { "id": "4", "name": "Pumpkin puree", "icon": "" }
     ],
     "nutrtion": [
       {
         "id": "0",
-        "label": "",
-        "value": ""
+        "label": "Calories",
+        "value": "433"
       },
       {
         "id": "1",
-        "label": "",
-        "value": ""
+        "label": "Total fat",
+        "value": "18.9g"
       },
       {
         "id": "2",
-        "label": "",
-        "value": ""
+        "label": "Sodium",
+        "value": "120mg"
       },
       {
         "id": "3",
-        "label": "",
-        "value": ""
+        "label": "Sugars",
+        "value": "38g"
       }
     ]
   },
@@ -386,34 +386,34 @@
     "thumbnailSource": "",
     "description": "Soft and perfectly crumbly with just the right salty sweetness",
     "imageSource": "",
-    "detail": "",
+    "detail": "They’re soft but perfectly crumbly, and salty sweet. Decorated with the classic criss-cross pattern, they’ve got a sparkle of sugar. And a chocolate icing drizzle makes them look even more fun.",
     "ingredients": [
-      { "id": "0", "name": "", "icon": "" },
-      { "id": "1", "name": "", "icon": "" },
-      { "id": "2", "name": "", "icon": "" },
-      { "id": "3", "name": "", "icon": "" },
-      { "id": "4", "name": "", "icon": "" }
+      { "id": "0", "name": "Vanilla extract", "icon": "" },
+      { "id": "1", "name": "Cane sugar", "icon": "" },
+      { "id": "2", "name": "Peanut butter", "icon": "" },
+      { "id": "3", "name": "Almond butter", "icon": "" },
+      { "id": "4", "name": "Cocoa powder", "icon": "" }
     ],
     "nutrtion": [
       {
         "id": "0",
-        "label": "",
-        "value": ""
+        "label": "Calories",
+        "value": "149"
       },
       {
         "id": "1",
-        "label": "",
-        "value": ""
+        "label": "Tota fat",
+        "value": "8.8g"
       },
       {
         "id": "2",
-        "label": "",
-        "value": ""
+        "label": "Sodium",
+        "value": "80mg"
       },
       {
         "id": "3",
-        "label": "",
-        "value": ""
+        "label": "Sugars",
+        "value": "7.9g"
       }
     ]
   },
@@ -424,34 +424,34 @@
     "thumbnailSource": "",
     "description": "Perfectly crunchy crumble topping with tangy blueberry filling",
     "imageSource": "",
-    "detail": "",
+    "detail": "This easy blueberry crisp is everything: it’s got a healthy spin, and it tastes so good.The crumble is perfectly crisp: and gluten free! The topping here is crunchy and made of almonds and oats: making it a naturally gluten free dessert.",
     "ingredients": [
-      { "id": "0", "name": "", "icon": "" },
-      { "id": "1", "name": "", "icon": "" },
-      { "id": "2", "name": "", "icon": "" },
-      { "id": "3", "name": "", "icon": "" },
-      { "id": "4", "name": "", "icon": "" }
+      { "id": "0", "name": "Fresh blueberries", "icon": "" },
+      { "id": "1", "name": "Lemon juice", "icon": "" },
+      { "id": "2", "name": "Oats", "icon": "" },
+      { "id": "3", "name": "Almond flour", "icon": "" },
+      { "id": "4", "name": "Coconut sugar", "icon": "" }
     ],
     "nutrtion": [
       {
         "id": "0",
-        "label": "",
-        "value": ""
+        "label": "Calories",
+        "value": "257"
       },
       {
         "id": "1",
-        "label": "",
-        "value": ""
+        "label": "Total fat",
+        "value": "8.8g"
       },
       {
         "id": "2",
-        "label": "",
-        "value": ""
+        "label": "Sodium",
+        "value": "62mg"
       },
       {
         "id": "3",
-        "label": "",
-        "value": ""
+        "label": "Sugars",
+        "value": "22.3g"
       }
     ]
   }

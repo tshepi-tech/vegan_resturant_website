@@ -4,6 +4,7 @@ import Contact from "./Pages/Contact";
 import Footer from "./Components/Footer";
 import HomePage from "./Pages/HomePage";
 import MenuTemplate from "./Pages/MenuTemplate";
+import ProductTemplate from "./Pages/ProductTemplate";
 
 import "./Styles/styles.css";
 
@@ -26,6 +27,7 @@ function App() {
           element={<MenuTemplate category={category} />}
         />
         <Route path="/Contact" element={<Contact />} />
+        <Route path="/category/:id" element={<ProductTemplate />} />
       </Routes>
       <Footer />
     </div>

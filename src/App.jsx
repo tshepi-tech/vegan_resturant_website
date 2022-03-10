@@ -1,13 +1,9 @@
 //Project Files
 import Navigation from "./Components/Navigation";
 import Contact from "./Pages/Contact";
-import Dishes from "./Pages/Dishes";
-import Drinks from "./Pages/Drinks";
-import Desserts from "./Pages/Desserts";
 import Footer from "./Components/Footer";
 import HomePage from "./Pages/HomePage";
 import MenuTemplate from "./Pages/MenuTemplate";
-import ProductDetail from "./Pages/ProductDetail";
 
 import "./Styles/styles.css";
 

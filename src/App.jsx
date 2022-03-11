@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className="App">
-      <Navigation category={category} setCategory={setCategory} />
+      <Navigation setCategory={setCategory} />
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/Dishes" element={<MenuTemplate category={category} />} />

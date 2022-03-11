@@ -3,6 +3,10 @@ import React from "react";
 //NPM Packages
 import { Link, NavLink } from "react-router-dom";
 
+//Project Files
+
+import logo from "../Assets/logo.png";
+
 export default function Navigation({ setCategory }) {
   function menuDishes() {
     setCategory("Dishes");
@@ -18,7 +22,7 @@ export default function Navigation({ setCategory }) {
   return (
     <nav>
       <Link to="/">
-        <img src="" alt="logo of resturant" />
+        <img src={logo} alt="logo of resturant" />
       </Link>
       <ul>
         <NavLink onClick={menuDishes} to="/Dishes">

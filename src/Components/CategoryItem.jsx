@@ -11,7 +11,7 @@ export default function CategoryItem({ item }) {
     <div>
       <h2>{title}</h2>
       <img className="cardImage" src={coverImage} alt={title} />
-      <span>{description}</span>
+      <p>{description}</p>
       <p>
         <Link to={title}>View menu</Link>
       </p>

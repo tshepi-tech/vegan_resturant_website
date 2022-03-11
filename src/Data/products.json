@@ -14,7 +14,7 @@
       { "id": "3", "name": "Cherry tomatoes", "icon": "" },
       { "id": "4", "name": "Italian dried herbs", "icon": "" }
     ],
-    "nutrtion": [
+    "nutrition": [
       {
         "id": "0",
         "label": "Calories",
@@ -52,7 +52,7 @@
       { "id": "3", "name": "Spinach", "icon": "" },
       { "id": "4", "name": "Tomatoes", "icon": "" }
     ],
-    "nutrtion": [
+    "nutrition": [
       {
         "id": "0",
         "label": "Calories",
@@ -90,7 +90,7 @@
       { "id": "3", "name": "Cucumber", "icon": "" },
       { "id": "4", "name": "Wholewheat buns", "icon": "" }
     ],
-    "nutrtion": [
+    "nutrition": [
       {
         "id": "0",
         "label": "Calories",
@@ -128,7 +128,7 @@
       { "id": "3", "name": "Sesame seeds", "icon": "" },
       { "id": "4", "name": "Sprouts", "icon": "" }
     ],
-    "nutrtion": [
+    "nutrition": [
       {
         "id": "0",
         "label": "Calories",
@@ -161,12 +161,12 @@
     "detail": "Our quick and delicious Almond butter & banana smoothie which is great for snack or breakfast. Using only the freshest bananas , the smoothie is a favourite for childrenand can be served as a milkshake as well with frozen bananas!",
     "ingredients": [
       { "id": "0", "name": "Banana", "icon": "" },
-      { "id": "1", "name": "Unsweetened almonf milk", "icon": "" },
+      { "id": "1", "name": "Unsweetened almond milk", "icon": "" },
       { "id": "2", "name": "Almond butter", "icon": "" },
       { "id": "3", "name": "Grounded cinnamon", "icon": "" },
       { "id": "4", "name": "Unflavoured protein powder", "icon": "" }
     ],
-    "nutrtion": [
+    "nutrition": [
       {
         "id": "0",
         "label": "Calories",
@@ -204,7 +204,7 @@
       { "id": "3", "name": "Lemon", "icon": "" },
       { "id": "4", "name": "Pormegrante", "icon": "" }
     ],
-    "nutrtion": [
+    "nutrition": [
       {
         "id": "0",
         "label": "Calories",
@@ -242,7 +242,7 @@
       { "id": "3", "name": "Beetroot", "icon": "" },
       { "id": "4", "name": "Carrot", "icon": "" }
     ],
-    "nutrtion": [
+    "nutrition": [
       {
         "id": "0",
         "label": "Calories",
@@ -280,7 +280,7 @@
       { "id": "3", "name": "Ground cinnamon", "icon": "" },
       { "id": "4", "name": "Honey", "icon": "" }
     ],
-    "nutrtion": [
+    "nutrition": [
       {
         "id": "0",
         "label": "Calories",
@@ -318,7 +318,7 @@
       { "id": "3", "name": "Coconut salt", "icon": "" },
       { "id": "4", "name": "Sea salt", "icon": "" }
     ],
-    "nutrtion": [
+    "nutrition": [
       {
         "id": "0",
         "label": "Calories",
@@ -356,7 +356,7 @@
       { "id": "3", "name": "Coconut milk", "icon": "" },
       { "id": "4", "name": "Pumpkin puree", "icon": "" }
     ],
-    "nutrtion": [
+    "nutrition": [
       {
         "id": "0",
         "label": "Calories",
@@ -394,7 +394,7 @@
       { "id": "3", "name": "Almond butter", "icon": "" },
       { "id": "4", "name": "Cocoa powder", "icon": "" }
     ],
-    "nutrtion": [
+    "nutrition": [
       {
         "id": "0",
         "label": "Calories",
@@ -432,7 +432,7 @@
       { "id": "3", "name": "Almond flour", "icon": "" },
       { "id": "4", "name": "Coconut sugar", "icon": "" }
     ],
-    "nutrtion": [
+    "nutrition": [
       {
         "id": "0",
         "label": "Calories",

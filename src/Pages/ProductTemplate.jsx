@@ -1,14 +1,18 @@
 import { useParams } from "react-router-dom";
 import products from "../Data/products.json";
 
-export default function ProductTemplate() {
+export default function ProductTemplate({ imageSource }) {
+  //Properties
   let params = useParams();
   const { id } = params;
   const productItem = products.find((item) => item.id === id);
 
+  //   const productImage = require(`../Assets/${imageSource}`);
+
   return (
     <div>
       <h3>{productItem.product}</h3>
+      {/* <img src={productImage} alt={"image of product"} /> */}
       <p>{productItem.detail}</p>
 
       <p>{productItem.ingredients[0].name}</p>

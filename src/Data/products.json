@@ -5,7 +5,7 @@
     "category": "Dishes",
     "thumbnailSource": "dishQuinoaCake.webp",
     "description": "A delicious, healthy flavorful vegan dinner that is gluten-free",
-    "imageSource": "",
+    "imageSource": "main_dish_quinoa.jpeg",
     "detail": "A unique purely plat based meal with no bread crumbs, egg or flour. Our versatile flavours are always in stock served with a side salad and sauce of your choice.",
     "ingredients": [
       { "id": "0", "name": "Quinoa", "icon": "" },
@@ -43,7 +43,7 @@
     "category": "Dishes",
     "thumbnailSource": "dishButternutrisotto.jpeg",
     "description": "A one pot, no fuss,Gluten-free comforting meal",
-    "imageSource": "",
+    "imageSource": "main_dish_risotto",
     "detail": "A customer favourite creamy butternut, giving the risotto a lovely richness. The drizzle of the leek oil adds more flavour to the meal served with any side.",
     "ingredients": [
       { "id": "0", "name": "Leeks", "icon": "" },
@@ -81,8 +81,8 @@
     "category": "Dishes",
     "thumbnailSource": "dishVeganburger.webp",
     "description": "The Asian-style,grilled,vegan Portobello Mushroom burger full of flavour!",
-    "imageSource": "A flavorful umami bomb! Portobello mushrooms are brushed with a Miso-Sesame-Sriracha marinade, then grilled until perfectly juicy and tender.They are layered up with a Japanese-style cucumber ribbon salad, a carrot slaw (or Asian Slaw) and the best part,  as Asian style, avocado spread for the buns– seasoned with ginger & sesame, (aka Asian Guacamole).",
-    "detail": "",
+    "detail": "A flavorful umami bomb! Portobello mushrooms are brushed with a Miso-Sesame-Sriracha marinade, then grilled until perfectly juicy and tender.They are layered up with a Japanese-style cucumber ribbon salad, a carrot slaw (or Asian Slaw) and the best part,  as Asian style, avocado spread for the buns– seasoned with ginger & sesame, (aka Asian Guacamole).",
+    "imageSource": "main_dish_burger",
     "ingredients": [
       { "id": "0", "name": "Portobello mushrooms", "icon": "" },
       { "id": "1", "name": "Avocado", "icon": "" },
@@ -119,7 +119,7 @@
     "category": "Dishes",
     "thumbnailSource": "dishBeetpoké.webp",
     "description": "Delicious salad served with greens,rice or soba noodles",
-    "imageSource": "",
+    "imageSource": "main_dish_poké",
     "detail": "Beets are diced and steamed and tossed in the most delicious Poke Marinade- then tossed with scallions and cilantro. The Beet Poke Salad is served over buckwheat soba noodles.",
     "ingredients": [
       { "id": "0", "name": "Beetroot", "icon": "" },

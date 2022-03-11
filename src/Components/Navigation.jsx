@@ -3,7 +3,7 @@ import React from "react";
 //NPM Packages
 import { Link, NavLink } from "react-router-dom";
 
-export default function Navigation({ category, setCategory }) {
+export default function Navigation({ setCategory }) {
   function menuDishes() {
     setCategory("Dishes");
   }

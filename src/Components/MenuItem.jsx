@@ -2,10 +2,10 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 export default function MenuItem({ item }) {
-  const { product, description } = item;
+  const { description, product, thumbnailSource } = item;
 
   //Properties
-  // const coverImage = require(`../Assets/${imageOrigin}`);
+  const coverImage = require(`../Assets/${thumbnailSource}`);
 
   return (
     <div>
@@ -13,9 +13,9 @@ export default function MenuItem({ item }) {
       <h3>
         <Link to={`/category/${item.id}`}>{product}</Link>
       </h3>
-      <p>{description}</p>
-      {/* <img className="cardImage" src={coverImage} alt={title} /> */}
+      <img className="cardImage" src={coverImage} alt={product} />
       {/* <span>{description}</span> */}
+      <p>{description}</p>
       {/* <p>
       </p> */}
     </div>

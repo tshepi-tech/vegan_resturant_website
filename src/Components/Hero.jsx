@@ -5,7 +5,7 @@ export default function Hero() {
     <section className="hero">
       <div>
         <h1>Welcome to VegLicious</h1>
-        <p>The tastiest vegan resturant in town</p>
+        <h3>The tastiest vegan resturant in town</h3>
       </div>
     </section>
   );

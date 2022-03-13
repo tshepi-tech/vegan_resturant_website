@@ -14,10 +14,6 @@ export default function InformationItem({ item }) {
         alt="picture of resturant owner using knife"
       />
       <h3>{address}</h3>
-      <h3>[openingHours]</h3>
-      {/* <section className="map">
-        <iframe src={locationURL}></iframe>
-      </section> */}
     </div>
   );
 }

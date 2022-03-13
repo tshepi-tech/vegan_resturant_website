@@ -3,7 +3,7 @@ import React from "react";
 export default function ContactForm() {
   return (
     <form>
-      <h3>Book a table</h3>
+      <h2>Book a table</h2>
       <label>
         Name
         <input type="text" placeholder="Tshepiso" />

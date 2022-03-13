@@ -3,6 +3,7 @@
   height: 55px;
   display: flex;
   align-items: center;
+  position: fixed;
 }
 
 .logo {

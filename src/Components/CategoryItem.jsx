@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 
 export default function CategoryItem({ item }) {
   const { title, description, imageOrigin } = item;
@@ -16,10 +15,4 @@ export default function CategoryItem({ item }) {
       </div>
     </div>
   );
-}
-
-{
-  /* <p>
-  <Link to={title}>View menu</Link>
-</p> */
 }

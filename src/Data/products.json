@@ -9,7 +9,7 @@
     "detail": "A unique purely plat based meal with no bread crumbs, egg or flour. Our versatile flavours are always in stock served with a side salad and sauce of your choice.",
     "ingredients": [
       { "id": "0", "name": "Quinoa", "icon": "" },
-      { "id": "1", "name": "Chickpease", "icon": "" },
+      { "id": "1", "name": "Chickpeas", "icon": "" },
       { "id": "2", "name": "Cucumber", "icon": "" },
       { "id": "3", "name": "Cherry tomatoes", "icon": "" },
       { "id": "4", "name": "Italian dried herbs", "icon": "" }
@@ -157,7 +157,7 @@
     "category": "Drinks",
     "thumbnailSource": "Almondbutter.jpeg",
     "description": "With added nutty flavour from almond butter, enjoy this creamy smoothie",
-    "imageSource": "",
+    "imageSource": "Almondbutter.jpeg",
     "detail": "Our quick and delicious Almond butter & banana smoothie which is great for snack or breakfast. Using only the freshest bananas , the smoothie is a favourite for childrenand can be served as a milkshake as well with frozen bananas!",
     "ingredients": [
       { "id": "0", "name": "Banana", "icon": "" },
@@ -195,7 +195,7 @@
     "category": "Drinks",
     "thumbnailSource": "Berryjuice.jpeg",
     "description": "a colourful 3 ingredient cocktail enjoyed all year-round.",
-    "imageSource": "",
+    "imageSource": "Berryjuice.jpeg",
     "detail": "This bright and bubbly sipper combines berries with vodka and seltzer to make a colorful 3-ingredient cocktail you can enjoy year-round, thanks to frozen berries. Amp up the flavor even more by requesting a flavored seltzer rather than plain!",
     "ingredients": [
       { "id": "0", "name": "Frozen berries", "icon": "" },
@@ -233,7 +233,7 @@
     "category": "Drinks",
     "thumbnailSource": "Beetjuice.jpeg",
     "description": "Packed with vegetables, ready for a healthy kick!",
-    "imageSource": "",
+    "imageSource": "Beetjuice.jpeg",
     "detail": "In this healthy ginger-beet juice recipe, we pack in vegetables by adding kale and a carrot, and sweeten with an orange and apple.",
     "ingredients": [
       { "id": "0", "name": "Orange", "icon": "" },
@@ -271,7 +271,7 @@
     "category": "Drinks",
     "thumbnailSource": "tumericlatte.jpeg",
     "description": "Steamed almond milk ,with healthy tumeric and a touch of honey",
-    "imageSource": "",
+    "imageSource": "tumericlatte.jpeg",
     "detail": "Studies on turmeric's health benefits, particularly for reducing inflammation, are preliminary but promising. Try this vegan turmeric latte made from steamed almond milk and sweetened with a touch of maple syrup.",
     "ingredients": [
       { "id": "0", "name": "Tumeric", "icon": "" },
@@ -309,7 +309,7 @@
     "category": "Desserts",
     "thumbnailSource": "dessertChocolatebark.webp",
     "description": "This treat is salty and sweet with crisp texture",
-    "imageSource": "",
+    "imageSource": "dessertChocolatebark.webp",
     "detail": "This one is sweet and salty, with a confetti of colorful ingredients and absolutely irresistible.We used cranberries, pistachios, coconut and sea salt for the toppings.Enjoy a smooth, shiny sheen on the chocolate and just the right crisp crunch when you bite into it.",
     "ingredients": [
       { "id": "0", "name": "Vegan dark chololate", "icon": "" },
@@ -347,7 +347,7 @@
     "category": "Desserts",
     "thumbnailSource": "dessertChocolatecake.webp",
     "description": "Cake with chocolate buttercream filling and shiny dark chocolate ganache",
-    "imageSource": "",
+    "imageSource": "dessertChocolatecake.webp",
     "detail": "Cake perfection! This incredible, decadent vegan chocolate cake features a rich, moist interior and a fluffy buttercream filling. The best part? It’s topped off with a shiny ganache topping!",
     "ingredients": [
       { "id": "0", "name": "Vanilla extract", "icon": "" },
@@ -385,7 +385,7 @@
     "category": "Desserts",
     "thumbnailSource": "dessertPeanutbuttercookie.webp",
     "description": "Soft and perfectly crumbly with just the right salty sweetness",
-    "imageSource": "",
+    "imageSource": "dessertPeanutbuttercookie.webp",
     "detail": "They’re soft but perfectly crumbly, and salty sweet. Decorated with the classic criss-cross pattern, they’ve got a sparkle of sugar. And a chocolate icing drizzle makes them look even more fun.",
     "ingredients": [
       { "id": "0", "name": "Vanilla extract", "icon": "" },
@@ -423,7 +423,7 @@
     "category": "Desserts",
     "thumbnailSource": "dessertBlueberrycrisp.webp",
     "description": "Perfectly crunchy crumble topping with tangy blueberry filling",
-    "imageSource": "",
+    "imageSource": "dessertBlueberrycrisp.webp",
     "detail": "This easy blueberry crisp is everything: it’s got a healthy spin, and it tastes so good.The crumble is perfectly crisp: and gluten free! The topping here is crunchy and made of almonds and oats: making it a naturally gluten free dessert.",
     "ingredients": [
       { "id": "0", "name": "Fresh blueberries", "icon": "" },

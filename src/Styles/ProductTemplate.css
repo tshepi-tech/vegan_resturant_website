@@ -1,0 +1,32 @@
+.product {
+  display: flex;
+  flex-direction: column;
+}
+
+.product h3 {
+  font-weight: lighter;
+  color: #bfa8bb;
+  padding: 8px 0px;
+}
+.product p {
+  font-weight: lighter;
+}
+#product-title {
+  font-weight: bold;
+  text-align: center;
+  padding: 8px;
+}
+
+#ingredients {
+  color: #bfa8bb;
+}
+
+.product table {
+  padding: 8px 0px;
+}
+
+@media (min-width: 750px) {
+  .product {
+    width: 50vw;
+  }
+}

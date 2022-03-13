@@ -20,21 +20,23 @@ export default function Navigation({ setCategory }) {
   }
 
   return (
-    <nav>
+    <nav className="nav">
       <Link to="/">
-        <img src={logo} alt="logo of resturant" />
+        <img className="logo" src={logo} alt="logo of resturant" />
       </Link>
       <ul>
-        <NavLink onClick={menuDishes} to="/Dishes">
+        <NavLink className="nav-text" onClick={menuDishes} to="/Dishes">
           Dishes
         </NavLink>
-        <NavLink onClick={menuDrinks} to="/Drinks">
+        <NavLink className="nav-text" onClick={menuDrinks} to="/Drinks">
           Drinks
         </NavLink>
-        <NavLink onClick={menuDesserts} to="/Desserts">
+        <NavLink className="nav-text" onClick={menuDesserts} to="/Desserts">
           Desserts
         </NavLink>
-        <NavLink to="/Contact">Contact</NavLink>
+        <NavLink className="nav-text" to="/Contact">
+          Contact
+        </NavLink>
       </ul>
     </nav>
   );

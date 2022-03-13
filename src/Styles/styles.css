@@ -1,3 +1,10 @@
+/*Base*/
+@import "./Base/layout.css";
+@import "./Base/typography.css";
+
+/*Components*/
 @import url("./CategoryItem.css");
 @import url("./map.css");
+@import url("./navigation.css");
+
 @import url("./Hero.css");

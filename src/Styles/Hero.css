@@ -5,6 +5,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  background-image: linear-gradient(to right, #bfa8bb, #8cdba9);
   background-image: url(../Assets/HeroImage.webp);
   background-position: center center;
   background-repeat: no-repeat;

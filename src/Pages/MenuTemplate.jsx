@@ -9,7 +9,7 @@ export default function MenuTemplate({ category }) {
 
   return (
     <div>
-      <h2> {category} menu</h2>
+      <h2 className="menu_h2"> {category} menu</h2>
       {listItems}
       {/* <Link to={`/Dishes/${item.id}`}>{listDishes}</Link> */}
     </div>

@@ -1,4 +1,33 @@
+.homepage h2 {
+  color: #bfa8bb;
+  padding: 16px;
+  font-weight: lighter;
+}
+
+.homepage p {
+  font-weight: lighter;
+}
+
+.homepage_inner {
+  flex: display;
+  margin: 0px 12px;
+  text-align: center;
+}
+
 .cardImage {
   width: 200px;
   height: auto;
+}
+
+@media (min-width: 750px) {
+  .homepage {
+    padding-top: 20px;
+    display: inline-flex;
+  }
+  .homepage_inner {
+  }
+
+  .homepage p {
+    width: 40vh;
+  }
 }

@@ -8,13 +8,18 @@ export default function CategoryItem({ item }) {
   const coverImage = require(`../Assets/${imageOrigin}`);
 
   return (
-    <div>
+    <div className="homepage">
       <h2>{title}</h2>
-      <img className="cardImage" src={coverImage} alt={title} />
-      <p>{description}</p>
-      <p>
-        <Link to={title}>View menu</Link>
-      </p>
+      <div className="homepage_inner">
+        <img className="cardImage" src={coverImage} alt={title} />
+        <p>{description}</p>
+      </div>
     </div>
   );
+}
+
+{
+  /* <p>
+  <Link to={title}>View menu</Link>
+</p> */
 }

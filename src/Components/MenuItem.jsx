@@ -8,16 +8,18 @@ export default function MenuItem({ item }) {
   const coverImage = require(`../Assets/${thumbnailSource}`);
 
   return (
-    <div>
+    <div className="menu">
       {/* <h3>{product}</h3> */}
-      <h3>
-        <Link to={`/category/${item.id}`}>{product}</Link>
-      </h3>
-      <img className="cardImage" src={coverImage} alt={product} />
-      {/* <span>{description}</span> */}
-      <p>{description}</p>
-      {/* <p>
+      <div className="menu_inner">
+        <h3>
+          <Link to={`/category/${item.id}`}>{product}</Link>
+        </h3>
+        <img className="cardImage" src={coverImage} alt={product} />
+        {/* <span>{description}</span> */}
+        <p>{description}</p>
+        {/* <p>
       </p> */}
+      </div>
     </div>
   );
 }

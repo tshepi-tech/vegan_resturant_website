@@ -1,0 +1,21 @@
+.menu_h2 {
+  color: #bfa8bb;
+  padding: 16px;
+  font-weight: lighter;
+}
+
+.menu p {
+  font-weight: lighter;
+}
+
+.menu_inner {
+  flex: display;
+  margin: 0px 12px;
+  text-align: center;
+  padding-bottom: 16px;
+}
+
+.cardImage {
+  width: 200px;
+  height: auto;
+}

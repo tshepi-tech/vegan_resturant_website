@@ -12,6 +12,9 @@ export default function ProductTemplate() {
       <h3>{productItem.product}</h3>
       <p>{productItem.detail}</p>
       <h3>Ingredients</h3>
+      {/* Hardcoding -1 */}
+      {/* What happens if i write a 6 ingredient in your json or decide to remove 1? */}
+      {/* This should be done using a map or for loop */}
       <p>{productItem.ingredients[0].name}</p>
       <p>{productItem.ingredients[1].name}</p>
       <p>{productItem.ingredients[2].name}</p>

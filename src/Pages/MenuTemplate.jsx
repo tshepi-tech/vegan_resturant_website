@@ -11,6 +11,7 @@ export default function MenuTemplate({ category }) {
     <div>
       <h2 className="menu_h2"> {category} menu</h2>
       {listItems}
+      {/* No comments in production -1 */}
       {/* <Link to={`/Dishes/${item.id}`}>{listDishes}</Link> */}
     </div>
   );

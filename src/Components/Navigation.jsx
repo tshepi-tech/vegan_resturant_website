@@ -8,6 +8,7 @@ import { Link, NavLink } from "react-router-dom";
 import logo from "../Assets/logo.png";
 
 export default function Navigation({ setCategory }) {
+  // DRY -1 you can just write setCategory("Dishes") directly on the button
   function menuDishes() {
     setCategory("Dishes");
   }

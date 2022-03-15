@@ -1,5 +1,7 @@
 import React from "react";
 
+// DRY (Don't Repeat Yourself) -1
+// You can create a InputField component to avoid the duplicate code
 export default function ContactForm() {
   return (
     <form>

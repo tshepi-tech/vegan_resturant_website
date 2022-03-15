@@ -1,5 +1,6 @@
 import React from "react";
 
+// great
 export default function CategoryItem({ item }) {
   const { title, description, imageOrigin } = item;
 

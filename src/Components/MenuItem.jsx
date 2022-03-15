@@ -8,6 +8,7 @@ export default function MenuItem({ item }) {
   const coverImage = require(`../Assets/${thumbnailSource}`);
 
   return (
+    // No commented code -1
     <div className="menu">
       {/* <h3>{product}</h3> */}
       <div className="menu_inner">

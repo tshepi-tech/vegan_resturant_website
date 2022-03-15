@@ -10,6 +10,7 @@ export default function Contact({ item }) {
   const details = information.map((item) => (
     <InformationItem key={item.id} item={item}></InformationItem>
   ));
+
   return (
     <div>
       {details}

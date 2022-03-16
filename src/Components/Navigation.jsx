@@ -25,13 +25,13 @@ export default function Navigation({ setCategory }) {
         <img className="logo" src={logo} alt="logo of resturant" />
       </Link>
       <ul>
-        <NavLink className="nav-text" onClick={menuDishes} to="/Dishes">
+        <NavLink className="nav-text" to="menu/Dishes">
           Dishes
         </NavLink>
-        <NavLink className="nav-text" onClick={menuDrinks} to="/Drinks">
+        <NavLink className="nav-text" to="menu/Drinks">
           Drinks
         </NavLink>
-        <NavLink className="nav-text" onClick={menuDesserts} to="/Desserts">
+        <NavLink className="nav-text" to="menu/Desserts">
           Desserts
         </NavLink>
         <NavLink className="nav-text" to="/Contact">

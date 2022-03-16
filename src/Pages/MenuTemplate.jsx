@@ -8,7 +8,8 @@ export default function MenuTemplate({ category }) {
   ));
 
   return (
-    <div>
+    <div id="menu">
+      <h1>hello</h1>
       <h2 className="menu_h2"> {category} menu</h2>
       {listItems}
       {/* <Link to={`/Dishes/${item.id}`}>{listDishes}</Link> */}

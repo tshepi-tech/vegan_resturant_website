@@ -12,7 +12,7 @@ import "./Styles/styles.css";
 import { Routes, Route } from "react-router";
 import { useState } from "react";
 
-function App() {
+export default function App() {
   const [category, setCategory] = useState("");
 
   return (
@@ -20,18 +20,11 @@ function App() {
       <Navigation setCategory={setCategory} />
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/Dishes" element={<MenuTemplate category={category} />} />
-        <Route path="/Drinks" element={<MenuTemplate category={category} />} />
-        <Route
-          path="/Desserts"
-          element={<MenuTemplate category={category} />}
-        />
+        <Route path="menu/:category" element={<MenuTemplate />} />
+        <Route path="product/:product" element={<ProductTemplate />} />
         <Route path="/Contact" element={<Contact />} />
-        <Route path="/category/:id" element={<ProductTemplate />} />
       </Routes>
       <Footer />
     </div>
   );
 }
-
-export default App;

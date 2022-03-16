@@ -1,18 +1,17 @@
+//NPM Packages
+import { useParams } from "react-router";
+
+//Project files
 import MenuItem from "../Components/MenuItem";
 import products from "../Data/products.json";
 
-export default function MenuTemplate({ category }) {
-  const menuItems = products.filter((item) => item.category === category);
-  const listItems = menuItems.map((item) => (
-    <MenuItem category={category} key={item.id} item={item}></MenuItem>
-  ));
+export default function MenuTemplate() {
+  const { category } = useParams();
 
   return (
     <div id="menu">
-      <h1>hello</h1>
-      <h2 className="menu_h2"> {category} menu</h2>
-      {listItems}
-      {/* <Link to={`/Dishes/${item.id}`}>{listDishes}</Link> */}
+      <h2 className="menu_h2"> menu</h2>
+      <span>{category} menu</span>
     </div>
   );
 }

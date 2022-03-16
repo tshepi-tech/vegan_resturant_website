@@ -20,7 +20,7 @@ export default function App() {
       <Navigation setCategory={setCategory} />
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="menu/:category" element={<MenuTemplate />} />
+        <Route path="/menu/:categoryId" element={<MenuTemplate />} />
         <Route path="product/:product" element={<ProductTemplate />} />
         <Route path="/Contact" element={<Contact />} />
       </Routes>

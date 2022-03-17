@@ -13,7 +13,7 @@ export default function HomePage() {
   return (
     <div>
       <Hero />
-      {Categories}
+      <section> {Categories}</section>
     </div>
   );
 }

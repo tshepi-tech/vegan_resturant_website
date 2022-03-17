@@ -15,7 +15,7 @@ export default function MenuTemplate() {
   const filteredProducts = products.filter(
     (item) => item.categoryId === categoryId
   );
-  console.log(filteredProducts);
+
   //Components
   const Products = filteredProducts.map((item) => (
     <MenuItem key={item.id} item={item} />

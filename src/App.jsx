@@ -10,18 +10,15 @@ import "./Styles/styles.css";
 
 //NPM Packages
 import { Routes, Route } from "react-router";
-import { useState } from "react";
 
 export default function App() {
-  const [category, setCategory] = useState("");
-
   return (
     <div className="App">
-      <Navigation setCategory={setCategory} />
+      <Navigation />
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/menu/:categoryId" element={<MenuTemplate />} />
-        <Route path="product/:product" element={<ProductTemplate />} />
+        <Route path="product/:productId" element={<ProductTemplate />} />
         <Route path="/Contact" element={<Contact />} />
       </Routes>
       <Footer />

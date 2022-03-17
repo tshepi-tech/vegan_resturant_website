@@ -8,17 +8,6 @@ import { Link, NavLink } from "react-router-dom";
 import logo from "../Assets/logo.png";
 
 export default function Navigation({ setCategory }) {
-  function menuDishes() {
-    setCategory("Dishes");
-  }
-
-  function menuDrinks() {
-    setCategory("Drinks");
-  }
-  function menuDesserts() {
-    setCategory("Desserts");
-  }
-
   return (
     <nav className="nav">
       <Link to="/">

@@ -2,6 +2,7 @@
   {
     "id": "0",
     "product": "Crispy vegan quinoa cakes",
+    "productId": "Crispy vegan quinoa cakes",
     "categoryId": "Dishes",
     "thumbnailSource": "dishQuinoaCake.webp",
     "description": "A delicious, healthy flavorful vegan dinner that is gluten-free",
@@ -40,6 +41,7 @@
   {
     "id": "1",
     "product": "Butternut risotto with leeks and spinach",
+    "productId": "Butternut risotto with leeks and spinach",
     "categoryId": "Dishes",
     "thumbnailSource": "dishButternutrisotto.jpeg",
     "description": "A one pot, no fuss,Gluten-free comforting meal",
@@ -78,6 +80,7 @@
   {
     "id": "2",
     "product": "Best vegan burger",
+    "productId": "Best vegan burger",
     "categoryId": "Dishes",
     "thumbnailSource": "dishVeganburger.webp",
     "description": "The Asian-style,grilled,vegan Portobello Mushroom burger full of flavour!",
@@ -116,6 +119,7 @@
   {
     "id": "3",
     "product": "Beet poké bowl",
+    "productId": "Beet poké bowl",
     "categoryId": "Dishes",
     "thumbnailSource": "dishBeetpoké.webp",
     "description": "Delicious salad served with greens,rice or soba noodles",
@@ -154,6 +158,7 @@
   {
     "id": "4",
     "product": "Almond butter & banana protein smoothie",
+    "productId": "Almond butter & banana protein smoothie",
     "categoryId": "Drinks",
     "thumbnailSource": "Almondbutter.jpeg",
     "description": "With added nutty flavour from almond butter, enjoy this creamy smoothie",
@@ -192,6 +197,7 @@
   {
     "id": "5",
     "product": "Berry bubbly vegan soda",
+    "productId": "Berry bubbly vegan soda",
     "categoryId": "Drinks",
     "thumbnailSource": "Berryjuice.jpeg",
     "description": "a colourful 3 ingredient cocktail enjoyed all year-round.",
@@ -230,6 +236,7 @@
   {
     "id": "6",
     "product": "Ginger beet juice",
+    "productId": "Ginger beet juice",
     "categoryId": "Drinks",
     "thumbnailSource": "Beetjuice.jpeg",
     "description": "Packed with vegetables, ready for a healthy kick!",
@@ -268,6 +275,7 @@
   {
     "id": "7",
     "product": "Tumeric latte",
+    "productId": "Tumeric latte",
     "categoryId": "Drinks",
     "thumbnailSource": "tumericlatte.jpeg",
     "description": "Steamed almond milk ,with healthy tumeric and a touch of honey",
@@ -306,6 +314,7 @@
   {
     "id": "8",
     "product": "Chocolate bark",
+    "productId": "Chocolate bark",
     "categoryId": "Desserts",
     "thumbnailSource": "dessertChocolatebark.webp",
     "description": "This treat is salty and sweet with crisp texture",
@@ -344,6 +353,7 @@
   {
     "id": "9",
     "product": "Chocolate cake",
+    "productId": "Chocolate cake",
     "categoryId": "Desserts",
     "thumbnailSource": "dessertChocolatecake.webp",
     "description": "Cake with chocolate buttercream filling and shiny dark chocolate ganache",
@@ -382,6 +392,7 @@
   {
     "id": "10",
     "product": "Peanut butter cookies",
+    "productId": "Peanut butter cookies",
     "categoryId": "Desserts",
     "thumbnailSource": "dessertPeanutbuttercookie.webp",
     "description": "Soft and perfectly crumbly with just the right salty sweetness",
@@ -420,6 +431,7 @@
   {
     "id": "11",
     "product": "Blueberry crips",
+    "productId": "Blueberry crips",
     "categoryId": "Desserts",
     "thumbnailSource": "dessertBlueberrycrisp.webp",
     "description": "Perfectly crunchy crumble topping with tangy blueberry filling",

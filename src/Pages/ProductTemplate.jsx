@@ -1,11 +1,15 @@
+//NPM Packages
 import { useParams } from "react-router-dom";
+
+//Project files
 import products from "../Data/products.json";
 
 export default function ProductTemplate() {
+  const { productId } = useParams();
+
   //Properties
-  let params = useParams();
-  const { id } = params;
-  const productItem = products.find((item) => item.id === id);
+  const productItem = products.find((item) => item.productId === productId);
+  console.log(productItem);
 
   return (
     <div className="product">

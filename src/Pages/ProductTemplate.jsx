@@ -1,5 +1,6 @@
 //NPM Packages
 import { useParams } from "react-router-dom";
+import { useNavigate } from "react-router";
 
 //Project files
 import products from "../Data/products.json";
@@ -9,6 +10,7 @@ export default function ProductTemplate() {
 
   //Properties
   const productItem = products.find((item) => item.productId === productId);
+  const navigate = useNavigate();
 
   let imageURL = "";
   imageURL = require(`../Assets/${productItem.imageSource}`);
@@ -16,6 +18,7 @@ export default function ProductTemplate() {
   return (
     <div className="product">
       <img src={imageURL} alt="product display" />
+      <button onClick={() => navigate(-1)}>Go back</button>
       <h3>{productItem.product}</h3>
       <p>{productItem.detail}</p>
       <h3>Ingredients</h3>

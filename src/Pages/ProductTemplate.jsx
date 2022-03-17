@@ -9,10 +9,13 @@ export default function ProductTemplate() {
 
   //Properties
   const productItem = products.find((item) => item.productId === productId);
-  console.log(productItem);
+
+  let imageURL = "";
+  imageURL = require(`../Assets/${productItem.imageSource}`);
 
   return (
     <div className="product">
+      <img src={imageURL} alt="product display" />
       <h3>{productItem.product}</h3>
       <p>{productItem.detail}</p>
       <h3>Ingredients</h3>

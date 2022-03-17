@@ -12,14 +12,22 @@ export default function MenuTemplate() {
 
   //Properties
   const category = categories.find((item) => item.categoryId === categoryId);
+  const filteredProducts = products.filter(
+    (item) => item.categoryId === categoryId
+  );
+  console.log(filteredProducts);
+  //Components
+  const Products = filteredProducts.map((item) => (
+    <MenuItem key={item.id} item={item} />
+  ));
 
   // Safeguard
   if (category === undefined) return <Link to="/">Menu not found go home</Link>;
 
   return (
     <div id="menu">
-      <h1>hi</h1>
       <h2 className="menu_h2"> {category.title} menu</h2>
+      <section>{Products}</section>
     </div>
   );
 }

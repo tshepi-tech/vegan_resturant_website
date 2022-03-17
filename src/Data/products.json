@@ -2,7 +2,7 @@
   {
     "id": "0",
     "product": "Crispy vegan quinoa cakes",
-    "category": "Dishes",
+    "categoryId": "Dishes",
     "thumbnailSource": "dishQuinoaCake.webp",
     "description": "A delicious, healthy flavorful vegan dinner that is gluten-free",
     "imageSource": "main_dish_quinoa.jpeg",
@@ -40,7 +40,7 @@
   {
     "id": "1",
     "product": "Butternut risotto with leeks and spinach",
-    "category": "Dishes",
+    "categoryId": "Dishes",
     "thumbnailSource": "dishButternutrisotto.jpeg",
     "description": "A one pot, no fuss,Gluten-free comforting meal",
     "imageSource": "main_dish_risotto",
@@ -78,7 +78,7 @@
   {
     "id": "2",
     "product": "Best vegan burger",
-    "category": "Dishes",
+    "categoryId": "Dishes",
     "thumbnailSource": "dishVeganburger.webp",
     "description": "The Asian-style,grilled,vegan Portobello Mushroom burger full of flavour!",
     "detail": "A flavorful umami bomb! Portobello mushrooms are brushed with a Miso-Sesame-Sriracha marinade, then grilled until perfectly juicy and tender.They are layered up with a Japanese-style cucumber ribbon salad, a carrot slaw (or Asian Slaw) and the best part,  as Asian style, avocado spread for the buns– seasoned with ginger & sesame, (aka Asian Guacamole).",
@@ -116,7 +116,7 @@
   {
     "id": "3",
     "product": "Beet poké bowl",
-    "category": "Dishes",
+    "categoryId": "Dishes",
     "thumbnailSource": "dishBeetpoké.webp",
     "description": "Delicious salad served with greens,rice or soba noodles",
     "imageSource": "main_dish_poké",
@@ -154,7 +154,7 @@
   {
     "id": "4",
     "product": "Almond butter & banana protein smoothie",
-    "category": "Drinks",
+    "categoryId": "Drinks",
     "thumbnailSource": "Almondbutter.jpeg",
     "description": "With added nutty flavour from almond butter, enjoy this creamy smoothie",
     "imageSource": "Almondbutter.jpeg",
@@ -192,7 +192,7 @@
   {
     "id": "5",
     "product": "Berry bubbly vegan soda",
-    "category": "Drinks",
+    "categoryId": "Drinks",
     "thumbnailSource": "Berryjuice.jpeg",
     "description": "a colourful 3 ingredient cocktail enjoyed all year-round.",
     "imageSource": "Berryjuice.jpeg",
@@ -230,7 +230,7 @@
   {
     "id": "6",
     "product": "Ginger beet juice",
-    "category": "Drinks",
+    "categoryId": "Drinks",
     "thumbnailSource": "Beetjuice.jpeg",
     "description": "Packed with vegetables, ready for a healthy kick!",
     "imageSource": "Beetjuice.jpeg",
@@ -268,7 +268,7 @@
   {
     "id": "7",
     "product": "Tumeric latte",
-    "category": "Drinks",
+    "categoryId": "Drinks",
     "thumbnailSource": "tumericlatte.jpeg",
     "description": "Steamed almond milk ,with healthy tumeric and a touch of honey",
     "imageSource": "tumericlatte.jpeg",
@@ -306,7 +306,7 @@
   {
     "id": "8",
     "product": "Chocolate bark",
-    "category": "Desserts",
+    "categoryId": "Desserts",
     "thumbnailSource": "dessertChocolatebark.webp",
     "description": "This treat is salty and sweet with crisp texture",
     "imageSource": "dessertChocolatebark.webp",
@@ -344,7 +344,7 @@
   {
     "id": "9",
     "product": "Chocolate cake",
-    "category": "Desserts",
+    "categoryId": "Desserts",
     "thumbnailSource": "dessertChocolatecake.webp",
     "description": "Cake with chocolate buttercream filling and shiny dark chocolate ganache",
     "imageSource": "dessertChocolatecake.webp",
@@ -382,7 +382,7 @@
   {
     "id": "10",
     "product": "Peanut butter cookies",
-    "category": "Desserts",
+    "categoryId": "Desserts",
     "thumbnailSource": "dessertPeanutbuttercookie.webp",
     "description": "Soft and perfectly crumbly with just the right salty sweetness",
     "imageSource": "dessertPeanutbuttercookie.webp",
@@ -420,7 +420,7 @@
   {
     "id": "11",
     "product": "Blueberry crips",
-    "category": "Desserts",
+    "categoryId": "Desserts",
     "thumbnailSource": "dessertBlueberrycrisp.webp",
     "description": "Perfectly crunchy crumble topping with tangy blueberry filling",
     "imageSource": "dessertBlueberrycrisp.webp",

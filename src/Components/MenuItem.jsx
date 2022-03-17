@@ -15,10 +15,7 @@ export default function MenuItem({ item }) {
           <Link to={`/category/${item.id}`}>{product}</Link>
         </h3>
         <img className="cardImage" src={coverImage} alt={product} />
-        {/* <span>{description}</span> */}
         <p>{description}</p>
-        {/* <p>
-      </p> */}
       </div>
     </div>
   );

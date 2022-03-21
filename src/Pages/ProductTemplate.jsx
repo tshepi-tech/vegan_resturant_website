@@ -12,6 +12,10 @@ export default function ProductTemplate() {
   const productItem = products.find((item) => item.productId === productId);
   const navigate = useNavigate();
 
+  const Ingredients = productItem.ingredients.map((item) => (
+    <li key={item.id}>{item.name}</li>
+  ));
+
   let imageURL = "";
   imageURL = require(`../Assets/${productItem.imageSource}`);
 
@@ -22,11 +26,12 @@ export default function ProductTemplate() {
       <h3>{productItem.product}</h3>
       <p>{productItem.detail}</p>
       <h3>Ingredients</h3>
-      <p>{productItem.ingredients[0].name}</p>
+      <ul>{Ingredients}</ul>
+      {/* <p>{productItem.ingredients[0].name}</p>
       <p>{productItem.ingredients[1].name}</p>
       <p>{productItem.ingredients[2].name}</p>
       <p>{productItem.ingredients[3].name}</p>
-      <p>{productItem.ingredients[4].name}</p>
+      <p>{productItem.ingredients[4].name}</p> */}
       <table>
         <tbody>
           <h3>Nutrition</h3>
